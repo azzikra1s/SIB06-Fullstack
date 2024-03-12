@@ -1,2 +1,2 @@
 # SIB06-Fullstack
-Submission SIB PT Otak Kanan
+Tugas-tugas SIB PT Otak Kanan
